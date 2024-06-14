@@ -1,4 +1,4 @@
-# django-samples-code
+# django-samples
 It's sample peaces of code in Django to easily remembers.
 
 
